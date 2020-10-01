@@ -64,7 +64,7 @@ int LoadData(City arrayCity[])
 
 int LinearSearch(int key, City arrayCity[], int size)
 {
-    //  ここを実装する
+    
 
 
 }
