@@ -101,9 +101,10 @@ while(left<=right)
         right=pos-1;
     }
 }
+return result;
 }
 
-　
+
 int main(void)
 {
     int key;
