@@ -73,6 +73,7 @@ char* BMSearch(char text[], char key[])
         index=index+1;
     }
     }   
+
 return NULL;
 }
     
