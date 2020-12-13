@@ -1,5 +1,5 @@
 # 課題3 レポート
-学生番号　氏名
+bb35319035 林瀨龍紀
 
 
 ## 課題  
@@ -35,13 +35,16 @@
 なし
 
 ## ソースコードの説明
-
-
-
+14.15.38~49 構造体の長さやずらし量等を求める
+16~24　一行ずつずらし全てがあう文字列を探す
+51~73　BM法を用いて文字列を探す
 ## 出力結果
 
 ```
-
+PS C:\Users\bb35319035\まっするプロ演\2020psp3\k03> gcc -o k03 k03.c
+PS C:\Users\bb35319035\まっするプロ演\2020psp3\k03> ./k03
+Force Search. Find keyword at:wind in my hair.
+BM Search. Find keyword at:wind in my hair.
 ```
 
 ## 修正履歴
